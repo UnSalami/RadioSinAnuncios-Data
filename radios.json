@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Z101",
+    "nombre": "Z Digital/Z 101 FM",
+    "url_stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/Z101FM.mp3"
+  },
+  {
+    "id": "PRIMERA881",
+    "nombre": "Primera 88.1 FM",
+    "url_stream": "http://ejemplo.com/stream/primera881.mp3"
+  },
+  {
+    "id": "CALIENTE",
+    "nombre": "Caliente Santo Domingo",
+    "url_stream": "http://ejemplo.com/stream/caliente.mp3"
+  }
+]
